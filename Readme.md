@@ -10,10 +10,10 @@
 
 
 ## Installation
-- 1.Clone the repository: git clone https://github.com/ritwik2025/EcommerceStore_Backend
-- 2.Install dependencies: npm install
-- 3.Set up environment variables: Copy the .env.example file to .env and configure your database and JWT secret.
-- 4.Run the server: npm start
+- Clone the repository: git clone https://github.com/ritwik2025/EcommerceStore_Backend
+- Install dependencies: npm install
+- Set up environment variables: Copy the .env.example file to .env and configure your database and JWT secret.
+- Run the server: npm start
 
 ## Usage
 
@@ -21,8 +21,8 @@ Once the server is running, you can use Postman or any API testing tool to send 
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1.Fork the repository
-2.Create a new branch (git checkout -b feature/your-feature)
-3.Commit your changes (git commit -am 'Add new feature')
-4.Push to the branch (git push origin feature/your-feature)
-5.Create a new Pull Request
+- Fork the repository
+- Create a new branch (git checkout -b feature/your-feature)
+- Commit your changes (git commit -am 'Add new feature')
+- Push to the branch (git push origin feature/your-feature)
+- Create a new Pull Request
